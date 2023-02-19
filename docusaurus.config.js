@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '졸업 앙대',
-  tagline: '복잡한 중앙대학교 졸업 요건을 정리하기 위한 사이트입니다.',
+  tagline: '졸업해봅시다...',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
