@@ -23,3 +23,4 @@ sidebar_position: 1
 1. [졸업인정제](./graduate-guide-of-2018/%EC%A1%B8%EC%97%85%EC%9D%B8%EC%A0%95%EC%A0%9C)
 2. [교양](./graduate-guide-of-2018/%EA%B5%90%EC%96%91)
 3. [공학인증](./graduate-guide-of-2018/%EA%B3%B5%ED%95%99%EC%9D%B8%EC%A6%9D)
+   - [설계학점](./graduate-guide-of-2018/%EA%B3%B5%ED%95%99%EC%9D%B8%EC%A6%9D-%EC%84%A4%EA%B3%84%ED%95%99%EC%A0%90.md)
