@@ -91,8 +91,16 @@ const config = {
             title: '문서들',
             items: [
               {
-                label: '졸업하는 법',
+                label: '졸업 요건 정리',
                 to: '/docs/graduate-guide',
+              },
+              {
+                label: 'ICT인턴십 정리',
+                to: '/docs/ictintern',
+              },
+              {
+                label: '유용한 글 모음',
+                to: '/docs/popular-article',
               },
             ],
           },
