@@ -113,6 +113,14 @@ const config = {
             title: '기타',
             items: [
               {
+                label: '소프트웨어학부 홈페이지',
+                to: 'https://cse.cau.ac.kr/sub01/sub0101.php',
+              },
+              {
+                label: '다빈치SW교육원',
+                to: 'https://swedu.cau.ac.kr/',
+              },
+              {
                 label: 'Blog',
                 to: '/blog',
               },
