@@ -74,7 +74,19 @@ const config = {
             type: 'doc',
             docId: 'graduate-guide',
             position: 'left',
-            label: '졸업하는 법',
+            label: '졸업 요건 정리',
+          },
+          {
+            type: 'doc',
+            docId: 'ictintern',
+            position: 'left',
+            label: 'ICT인턴십 정리',
+          },
+          {
+            type: 'doc',
+            docId: 'popular-article',
+            position: 'left',
+            label: '유용한 글 모음',
           },
           //{ to: '/blog', label: 'Blog', position: 'left' },
           {
