@@ -223,8 +223,29 @@ ICT인턴 사무국 측에서도 기업에게 일정에 맞추어 결과를 보�
 
 입사 후에 산재보험 가입되면 제출합니다.
 
-3월 2일부터 첫출근이라서 ㅎㅎ.
-TBD
+산재보험증명원은 [고용-산재보험 토탈 서비스](https://total.comwel.or.kr/)에서 편하게 발급 받을 수 있습니다.
+
+먼저 로그인을 합니다. 간편인증이 되어서 편합니다.
+![산재 포탈 로그인](./attachments/industrial-accident-page-login.png)
+
+상단의 `증명원 신청/발급` 메뉴를 클릭합니다.
+![증명원 신청-발급](./attachments/industrial-accident-page-top-menu.png)
+
+`고용-산재보험 자격 이력 내역서` 사이드바 메뉴를 클릭합니다.
+![고용-산재보험 자격 이력 내역서](./attachments/industrial-accident-page-side-menu.png.png)
+
+보험구분은 신재, 죄회구분은 상용으로 체크하고 `조회` 버튼을 클릭합니다.
+![조회](./attachments/industrial-accident-page-search.png)
+
+그러면 최근 자격 현황에 제 기업이 떠야 합니다.
+![최근 자격 현황](./attachments/industrial-accident-page-searched.png)
+
+뜨셨다면 원하는 이력을 체크하시고 아래로 스크롤하셔서 원하는 이력내역서를 신청하면 됩니다.
+바로 PDF로 출력할 수 있습니다!
+![발행](./attachments/industrial-accident-page-issue.png)
+
+"고용산재보험 자격 이력 내역서"를 발급 받아 보면 대충 이런식으로 나옵니다!
+![증명원](./attachments/industrial-accident-report.png)
 
 #### 보고서 작성
 
