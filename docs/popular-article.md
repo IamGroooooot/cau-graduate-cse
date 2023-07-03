@@ -28,6 +28,8 @@ sidebar_position: 4
 
 ### 인턴
 
+- [Placement 정규학기 인턴십 유의사항](https://everytime.kr/398053/v/308877645)
+- [ict학점연계 인턴 후기글 (정보글 아님 )](https://everytime.kr/398053/v/308176593)
 - [외부인턴 지원부터 협약까지](https://everytime.kr/398053/v/285275849)
 - [2022 상반기 ICT 학점연계 인턴십 참가 후기](https://everytime.kr/398053/v/258134997)
 
