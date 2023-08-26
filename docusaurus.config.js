@@ -80,7 +80,7 @@ const config = {
             type: 'doc',
             docId: 'ictintern',
             position: 'left',
-            label: 'ICT인턴십 정리',
+            label: 'ICT인턴십 후기',
           },
           {
             type: 'doc',
@@ -107,7 +107,7 @@ const config = {
                 to: '/docs/graduate-guide',
               },
               {
-                label: 'ICT인턴십 정리',
+                label: 'ICT인턴십 후기',
                 to: '/docs/ictintern',
               },
               {
