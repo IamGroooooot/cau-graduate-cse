@@ -78,6 +78,12 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'abeek',
+            position: 'left',
+            label: '공학인증 Tip',
+          },
+          {
+            type: 'doc',
             docId: 'ictintern',
             position: 'left',
             label: 'ICT인턴십 후기',
@@ -109,6 +115,10 @@ const config = {
               {
                 label: 'ICT인턴십 후기',
                 to: '/docs/ictintern',
+              },
+              {
+                label: '공학인증 Tip',
+                to: '/docs/abeek',
               },
               {
                 label: '유용한 글 모음',
